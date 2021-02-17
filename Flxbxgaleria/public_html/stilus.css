@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body{
+    background-image: url('hatter.jpg');
+    color: white;
+}
+
+main, header,nav, article, aside, footer{
+    border: 1px solid white;
+}
